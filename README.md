@@ -43,7 +43,8 @@ Cada documento puede ser consultado directamente en la carpeta de este repositor
 
 ## 🔗 Enlaces de Contacto
 - 📧 Correo: [alexlunach2002@gmail.com](mailto:alexlunach2002@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/Nicolasluna2002](https://www.linkedin.com/in/Nicolasluna2002)  
+- 💼 LinkedIn: www.linkedin.com/in/nicolas-luna2002
+ 
 - 📱 Teléfono: +51 988 669 635  
 
 ---
