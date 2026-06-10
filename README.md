@@ -37,8 +37,6 @@ Apasionado por el **marketing digital**, la **innovación centrada en el cliente
 
 📊 Gestión de Datos
 
-Esta estructura suele verse  
-
 Cada documento puede ser consultado directamente en la carpeta de este repositorio.  
 
 ---
