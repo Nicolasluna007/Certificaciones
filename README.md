@@ -18,10 +18,26 @@ Apasionado por el **marketing digital**, la **innovación centrada en el cliente
 
 ---
 
-## 📑 Certificaciones Incluidas
-- 🏅 **Carta de Recomendación de Marketing** – Neon House Led S.A.C (2024)  
-- 🏅 **Certificado de Prácticas Pre Profesionales** – Neon House Led S.A.C (2024)  
-- 📊 Cursos adicionales de Marketing Estratégico, Planificación Comercial y Gestión de Datos.  
+## 📑 Certificaciones
+🏅 Certificado de Inglés Básico e Intermedio (2019 - 2022)
+
+🏅 Carta de Recomendación de Marketing – Neon House Led S.A.C. (2024)
+
+🏅 Certificado de Prácticas Preprofesionales – Neon House Led S.A.C. (2024)
+
+🏅 Certificado de Excel Básico (2026)
+
+🏅 Certificado de Introducción a Power BI (2026)
+
+📚 Cursos Complementarios
+
+📊 Marketing Estratégico
+
+📊 Planificación Comercial
+
+📊 Gestión de Datos
+
+Esta estructura suele verse  
 
 Cada documento puede ser consultado directamente en la carpeta de este repositorio.  
 
