@@ -29,7 +29,7 @@ Apasionado por el **marketing digital**, la **innovación centrada en el cliente
 
 🏅 Certificado de Introducción a Power BI (2026)
 
-📚 Cursos Complementarios
+📚 Cursos Complementarios:
 
 📊 Marketing Estratégico
 
